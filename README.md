@@ -22,8 +22,30 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div>
 
 ---
+<div>
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
+    <img src="assets/rapid.jpg" alt="RapidProxy" width="100%" />
+  </a>
+</div>
 
-## 🚀 Steps to Deploy
+<br>
+
+<div align="left">
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank"><b>RapidProxy</b></a> delivers fast, reliable proxy infrastructure for large-scale data operations. With high concurrency, non-expiring traffic, and AI-powered CAPTCHA bypass, it ensures efficient, uninterrupted data collection—trusted by developers worldwide.<br><br>
+  90M+ Residential IPs • Smart Rotation • High Success Rate • Built for Scale<br><br>
+  <b>Special Offer:</b> <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">Try it free</a> — Pricing from $0.65/GB with non-expiring traffic. Use code <b>RAPID10</b> for 10% off.
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
+    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
+  </a>
+</div>
+
+
+## 🚀 Steps to Deploy Bot
 
 ### Step 1: Fork the Repository
 
@@ -147,6 +169,25 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ---
 
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+</a>
+
+</div>
+
+If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
+
+<div align="center">
+
+<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+
+</div>
+
+---
 
 ## 📄 License
 
